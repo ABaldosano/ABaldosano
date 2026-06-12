@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=200&section=header&text=Arthur%20Baldosano%20Jr.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20PSU-SITE%20President&descAlignY=58&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-powered+academic+systems+%F0%9F%A7%A0;Developing+web+platforms+from+scratch+%F0%9F%9A%80;Full-Stack+Developer+%7C+Puerto+Princesa%2C+Palawan+%F0%9F%87%B5%F0%9F%87%AD;President+%40+PSU-SITE+%7C+BSIT+Student+%40+PSU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-powered+academic+systems;Developing+web+platforms+from+scratch;Full-Stack+Developer+%7C+Puerto+Princesa%2C+Palawan;President+%40+PSU-SITE+%7C+BSIT+Student+%40+PSU)](https://git.io/typing-svg)
 
 <br/>
 
