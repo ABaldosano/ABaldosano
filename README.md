@@ -29,9 +29,9 @@
 
 ## ⬡ About
 
-I'm a second-year **BSIT student** at **Palawan State University** and serving as **President of PSU-SITE** — the university's IT student organization. I build custom web systems, AI-integrated academic platforms, and e-commerce infrastructure entirely from scratch. No templates, no boilerplate.
+I'm a second-year **BSIT student** at **Palawan State University** and serve as **President of PSU-SITE**, the university's IT student organization. I build custom web systems, AI-integrated academic platforms, and affiliate commerce sites. No copy-pasted templates.
 
-Currently deep in thesis development with **ATLAS-PSU**, a Genetic Algorithm-based teaching load assignment system for PSU's College of Sciences — and running **[Centrilign](https://github.com/Centrilign)**, a digital product studio where I ship affiliate commerce platforms and market data tools.
+Currently building **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-based teaching load assignment system for PSU's College of Sciences, and running **[Centrilign](https://github.com/Centrilign)**, a small digital studio shipping affiliate platforms and market data tools.
 
 **Open To**
 - Freelance web development projects
@@ -51,7 +51,7 @@ Currently deep in thesis development with **ATLAS-PSU**, a Genetic Algorithm-bas
 
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-> Vanilla HTML5 · CSS3 Custom Properties · ES6+ JavaScript · No framework dependencies by design
+> Vanilla HTML5 · CSS3 Custom Properties · ES6+ JavaScript · No frameworks
 
 **Backend & Tooling**
 
@@ -99,7 +99,7 @@ An AI-driven decision-support system using a **Genetic Algorithm** to automate a
 | Repository | [ABaldosano/ATLAS-PSU](https://github.com/ABaldosano/ATLAS-PSU) |
 | Live Demo | [abaldosano.github.io/ATLAS-PSU](https://abaldosano.github.io/ATLAS-PSU/) |
 
-The system encodes faculty profiles, subject constraints, and time slot rules as a chromosome structure, then evolves valid load distributions across generations — producing balanced, conflict-free schedules without manual chairperson intervention.
+The system encodes faculty profiles, subject constraints, and time slot rules as a chromosome structure, then evolves valid load distributions across generations, producing balanced, conflict-free schedules without manual intervention from the department chair.
 
 </details>
 
@@ -178,7 +178,7 @@ Full personal portfolio — zero frameworks, zero templates. Custom cursor, dark
 
 <br/>
 
-Game-inspired frontend experiments exploring immersive UI design, atmospheric visual systems, and dynamic interaction patterns. Both built entirely in pure HTML/CSS/JS — no frameworks.
+Game-inspired frontend experiments exploring immersive UI design, atmospheric visual systems, and dynamic interaction patterns. Both built in pure HTML/CSS/JS, no frameworks.
 
 | Project | Stack | Inspiration | Live |
 |---------|-------|-------------|------|
@@ -212,7 +212,7 @@ Two commissioned product discovery web formats exploring contrasting approaches 
 
 <br/>
 
-Independently owned affiliate commerce platform curating product picks across Shopee, Amazon, and SHEIN. Built from scratch on GitHub Pages. Traffic driven through a Pinterest-based social content strategy.
+Independently owned affiliate commerce platform curating product picks across Shopee, Amazon, and SHEIN. Built from scratch on GitHub Pages. Traffic driven through a Pinterest-based content strategy.
 
 | Attribute | Details |
 |-----------|---------|
@@ -231,12 +231,12 @@ Independently owned affiliate commerce platform curating product picks across Sh
 
 <br/>
 
-Lightweight, no-login stock and crypto market viewer for instant real-time data access. Search any ticker symbol and view live market info without account creation — built on the principle that financial data should be frictionless.
+Lightweight stock and crypto market viewer. Search any ticker and get live market data without creating an account.
 
 | Attribute | Details |
 |-----------|---------|
 | Stack | HTML · CSS · JavaScript · Finance API |
-| Model | No-login, zero-friction market data |
+| Model | No-login, real-time market data |
 | Domain | Fintech · Real-time data |
 | Repository | [Centrilign/crypstockdash](https://github.com/Centrilign/crypstockdash) |
 | Platform | [www.crypstockdash.page.gd](https://www.crypstockdash.page.gd/) |
@@ -250,7 +250,7 @@ Lightweight, no-login stock and crypto market viewer for instant real-time data 
 **President** · Society of Information Technology Enthusiasts (PSU-SITE)
 `Aug 2024 – Present`
 
-Leading PSU's IT student organization — organizing tech events, representing the student body in university-level engagements, and driving developer culture within the College of Sciences.
+Leading PSU's IT student organization, organizing tech events, representing students in university-level settings, and building technical culture within the College of Sciences.
 
 - Organized and facilitated IT-focused seminars, workshops, and inter-collegiate events
 - Represented BSIT students in institutional and organizational settings
@@ -266,8 +266,8 @@ Leading PSU's IT student organization — organizing tech events, representing t
 
 Independent digital product studio. Ships affiliate commerce platforms, market data tools, and web products under the Centrilign brand.
 
-- Designed and built PinnedPicks — live affiliate platform with social-driven traffic strategy
-- Developed CrypStockDash — no-login real-time financial data viewer
+- Designed and built PinnedPicks, a live affiliate platform with a Pinterest-based traffic strategy
+- Developed CrypStockDash, a no-login real-time financial data viewer
 - Operates full product lifecycle: ideation → build → deploy → traffic
 
 ![Centrilign](https://img.shields.io/badge/Studio-Centrilign-7c3aed?style=flat-square)
@@ -278,9 +278,9 @@ Independent digital product studio. Ships affiliate commerce platforms, market d
 **Freelance Web Developer** · Independent
 `2024 – Present`
 
-Client-facing web development — delivering Google Sites builds, product discovery layouts, and custom HTML/CSS/JS deliverables for paying clients.
+Client-facing web development delivering Google Sites builds, product discovery layouts, and custom HTML/CSS/JS work for paying clients.
 
-- Delivered complete class and school website via Google Sites for a paying client
+- Delivered a complete class and school website via Google Sites for a paying client
 - Built two product discovery web formats for a freelance commission
 - Manages client communication, scoping, and delivery end-to-end
 
@@ -311,7 +311,7 @@ Client-facing web development — delivering Google Sites builds, product discov
 
 ![Digital Marketing](https://img.shields.io/badge/HubSpot-Digital%20Marketing%20Certified-ff7a59?style=flat-square&logo=hubspot&logoColor=white)
 
-> Completed all 8 modules — SEO, content marketing, social media, email marketing, paid advertising, reporting, and analytics.
+> Completed all 8 modules: SEO, content marketing, social media, email marketing, paid advertising, reporting, and analytics.
 
 ---
 
@@ -356,8 +356,6 @@ Client-facing web development — delivering Google Sites builds, product discov
 ![Snake Animation](https://raw.githubusercontent.com/ABaldosano/ABaldosano/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> To enable the snake: add a GitHub Actions workflow at `.github/workflows/snake.yml` targeting the `output` branch.
 
 ---
 
@@ -407,7 +405,7 @@ current_focus:
 
 <div align="center">
 
-*Building from Puerto Princesa — shipping products that work.*
+*Building from Puerto Princesa. Shipping products that work.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=100&section=footer" width="100%" />
 
