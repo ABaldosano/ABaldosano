@@ -261,8 +261,8 @@ Leading PSU's IT student organization, organizing tech events, representing stud
 
 ---
 
-**Founder** · Centrilign
-`2025 – Present`
+**Founder & Full-Stack Developer** · Centrilign
+`2026 – Present`
 
 Independent digital product studio. Ships affiliate commerce platforms, market data tools, and web products under the Centrilign brand.
 
@@ -276,7 +276,7 @@ Independent digital product studio. Ships affiliate commerce platforms, market d
 ---
 
 **Freelance Web Developer** · Independent
-`2024 – Present`
+`2026 – Present`
 
 Client-facing web development delivering Google Sites builds, product discovery layouts, and custom HTML/CSS/JS work for paying clients.
 
