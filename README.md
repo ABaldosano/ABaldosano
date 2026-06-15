@@ -104,6 +104,23 @@ The system encodes faculty profiles, subject constraints, and time slot rules as
 </details>
 
 <details>
+<summary><strong>🏙️ RiseFromNothing: Browser-Based 3D Idle Tycoon</strong></summary>
+
+<br/>
+
+A 3D idle/incremental tycoon game built on Three.js. The player navigates an isometric city on foot, working up a job ladder (Beggar to Street Sweeper to Garbage Collector and beyond) while building out a network of businesses, food carts, stores, couriers, and logistics, that generate passive income. Features entity collisions, smart pathfinding, a day-night cycle, wandering pedestrians and vehicles, and mobile joystick controls.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | JavaScript (ES Modules) · Three.js · HTML5 · CSS3 |
+| Domain | Game Development · 3D Web · Idle/Incremental |
+| Status | Active development |
+| Repository | [ABaldosano/RiseFromNothing](https://github.com/ABaldosano/RiseFromNothing) |
+| Live Demo | [abaldosano.github.io/RiseFromNothing](https://abaldosano.github.io/RiseFromNothing/) |
+
+</details>
+
+<details>
 <summary><strong>🧠 PSU_AcadRes: Intelligent Academic Resource Platform</strong></summary>
 
 <br/>
@@ -170,6 +187,24 @@ Full personal portfolio with zero frameworks and zero templates. Custom cursor, 
 | Features | PWA · Dark mode · Custom cursor · IntersectionObserver scroll reveal |
 | SEO | JSON-LD structured data · Open Graph · Twitter Card · Geo meta |
 | Repository | [ABaldosano/My_Portfolio](https://github.com/ABaldosano/My_Portfolio) |
+
+</details>
+
+<details>
+<summary><strong>🛒 ProductSortGame: Falling-Item Sorting Game</strong></summary>
+
+<br/>
+
+A falling-item sorting game where produce drops from the top of the screen and the player drags each item into the correct basket (Fruit, Vegetable, or Dairy) before it hits the floor. Originally built as a C# WinForms Data Structures & Algorithms finals project, then ported to vanilla JS with drag-and-drop, mobile touch support, scoring, hearts, and progressive speed scaling.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | HTML · CSS · Vanilla JavaScript |
+| Origin | C# WinForms DSA finals project, ported to web |
+| Domain | Game Development · Casual/Arcade |
+| Status | Live |
+| Repository | [ABaldosano/ProductSortGame](https://github.com/ABaldosano/ProductSortGame) |
+| Live Demo | [abaldosano.github.io/ProductSortGame](https://abaldosano.github.io/ProductSortGame/) |
 
 </details>
 
@@ -371,6 +406,7 @@ current_focus:
 
   building:
     - ATLAS-PSU: GA-based thesis prototype (active development)
+    - RiseFromNothing: 3D idle tycoon game (Three.js)
     - PSU_AcadRes: AI academic platform expansion
     - Centrilign product pipeline
 
