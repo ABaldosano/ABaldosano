@@ -29,15 +29,15 @@
 
 ## ⬡ About
 
-I'm a second-year **BSIT student** at **Palawan State University** and serve as **President of PSU-SITE**, the university's IT student organization. I build custom web systems, AI-integrated academic platforms, and affiliate commerce sites. No copy-pasted templates.
+I'm a second-year **BSIT student** at **Palawan State University** and **President of PSU-SITE**, the university's IT student organization. I design and build custom web systems, AI-integrated academic platforms, and affiliate commerce sites, all from scratch, with no copy-pasted templates.
 
-Currently building **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-based teaching load assignment system for PSU's College of Sciences, and running **[Centrilign](https://github.com/Centrilign)**, a small digital studio shipping affiliate platforms and market data tools.
+Right now I'm developing **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-based teaching load assignment system for PSU's College of Sciences, while also running **[Centrilign](https://github.com/Centrilign)**, a small digital studio shipping affiliate platforms and market data tools.
 
-**Open To**
-- Freelance web development projects
-- Full-stack collaborations
-- Open source contributions
-- Academic system development (PH-based)
+**What I Build**
+- Academic systems that solve real institutional problems
+- Full-stack web platforms built from scratch, with a strong eye for design
+- AI and LLM-integrated tools and automation
+- Affiliate and commerce-focused products
 
 ---
 
@@ -69,8 +69,8 @@ Currently building **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-bas
 
 | Domain | Proficiency | Details |
 |--------|------------|---------|
-| Genetic Algorithms | ◆◆◆◆◇ | Teaching load optimization — ATLAS-PSU thesis prototype |
-| LLM Integration | ◆◆◆◇◇ | Ollama (Llama3) local inference + GPT API planning — PSU_AcadRes |
+| Genetic Algorithms | ◆◆◆◆◇ | Teaching load optimization for the ATLAS-PSU thesis prototype |
+| LLM Integration | ◆◆◆◇◇ | Ollama (Llama3) local inference and GPT API planning for PSU_AcadRes |
 | Academic System Design | ◆◆◆◆◇ | End-to-end design of university-facing automation tools |
 | API Development | ◆◆◆◇◇ | FastAPI backend for document processing pipelines |
 | Affiliate & Commerce Systems | ◆◆◆◆◆ | Live platforms with affiliate tracking and social traffic strategy |
@@ -81,10 +81,10 @@ Currently building **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-bas
 ## ⬡ Featured Projects
 
 > Personal projects built and maintained under [**ABaldosano**](https://github.com/ABaldosano).
-> Business products ship under [**Centrilign**](https://github.com/Centrilign) — see studio section below.
+> Business products ship under [**Centrilign**](https://github.com/Centrilign) (see studio section below).
 
 <details>
-<summary><strong>🎓 ATLAS-PSU — Automated Teaching Load Assignment System</strong></summary>
+<summary><strong>🎓 ATLAS-PSU: Automated Teaching Load Assignment System</strong></summary>
 
 <br/>
 
@@ -93,9 +93,9 @@ An AI-driven decision-support system using a **Genetic Algorithm** to automate a
 | Attribute | Details |
 |-----------|---------|
 | Stack | JavaScript · HTML · CSS · Genetic Algorithm |
-| Scope | PSU College of Sciences — Department Chairpersons |
+| Scope | PSU College of Sciences, Department Chairpersons |
 | Domain | Academic Systems · AI Optimization |
-| Status | Active prototype — thesis development |
+| Status | Active prototype, thesis development |
 | Repository | [ABaldosano/ATLAS-PSU](https://github.com/ABaldosano/ATLAS-PSU) |
 | Live Demo | [abaldosano.github.io/ATLAS-PSU](https://abaldosano.github.io/ATLAS-PSU/) |
 
@@ -104,7 +104,7 @@ The system encodes faculty profiles, subject constraints, and time slot rules as
 </details>
 
 <details>
-<summary><strong>🧠 PSU_AcadRes — Intelligent Academic Resource Platform</strong></summary>
+<summary><strong>🧠 PSU_AcadRes: Intelligent Academic Resource Platform</strong></summary>
 
 <br/>
 
@@ -139,11 +139,11 @@ JavaScript-based faculty workload balancer providing automated workload distribu
 </details>
 
 <details>
-<summary><strong>📚 Buzy-Reviewer — Interactive Study Tool</strong></summary>
+<summary><strong>📚 Buzy-Reviewer: Interactive Study Tool</strong></summary>
 
 <br/>
 
-Foundational study tool exploring interactive review mechanics. The direct architectural predecessor to PSU_AcadRes — its design decisions and limitations directly informed the build of the full AI platform.
+Foundational study tool exploring interactive review mechanics and the direct architectural predecessor to PSU_AcadRes. Its design decisions and limitations directly informed the build of the full AI platform.
 
 | Attribute | Details |
 |-----------|---------|
@@ -156,11 +156,11 @@ Foundational study tool exploring interactive review mechanics. The direct archi
 </details>
 
 <details>
-<summary><strong>🌐 My_Portfolio — Personal Portfolio Site</strong></summary>
+<summary><strong>🌐 My_Portfolio: Personal Portfolio Site</strong></summary>
 
 <br/>
 
-Full personal portfolio — zero frameworks, zero templates. Custom cursor, dark/light mode, scroll reveal animations, PWA manifest, full SEO (Open Graph, JSON-LD, sitemap, geo meta), and responsive layout. Live at a custom domain.
+Full personal portfolio with zero frameworks and zero templates. Custom cursor, dark/light mode, scroll reveal animations, PWA manifest, full SEO (Open Graph, JSON-LD, sitemap, geo meta), and responsive layout. Live at a custom domain.
 
 | Attribute | Details |
 |-----------|---------|
@@ -174,7 +174,7 @@ Full personal portfolio — zero frameworks, zero templates. Custom cursor, dark
 </details>
 
 <details>
-<summary><strong>🎮 Creative Frontend Builds — Cyberpunk2077 & Death Stranding</strong></summary>
+<summary><strong>🎮 Creative Frontend Builds: Cyberpunk2077 & Death Stranding</strong></summary>
 
 <br/>
 
@@ -188,7 +188,7 @@ Game-inspired frontend experiments exploring immersive UI design, atmospheric vi
 </details>
 
 <details>
-<summary><strong>🛍️ Freelance — Product Discovery Layouts</strong></summary>
+<summary><strong>🛍️ Commissioned Builds: Product Discovery Layouts</strong></summary>
 
 <br/>
 
@@ -203,12 +203,12 @@ Two commissioned product discovery web formats exploring contrasting approaches 
 
 ---
 
-## ⬡ Centrilign — Digital Product Studio
+## ⬡ Centrilign: Digital Product Studio
 
 > Products built and maintained under the **[Centrilign](https://github.com/Centrilign)** GitHub organization.
 
 <details>
-<summary><strong>📌 PinnedPicks — Affiliate E-Commerce Platform</strong></summary>
+<summary><strong>📌 PinnedPicks: Affiliate E-Commerce Platform</strong></summary>
 
 <br/>
 
@@ -227,7 +227,7 @@ Independently owned affiliate commerce platform curating product picks across Sh
 </details>
 
 <details>
-<summary><strong>📈 CrypStockDash — Market Data Viewer</strong></summary>
+<summary><strong>📈 CrypStockDash: Market Data Viewer</strong></summary>
 
 <br/>
 
@@ -295,8 +295,8 @@ Client-facing web development delivering Google Sites builds, product discovery 
 
 | Recognition | Details |
 |-------------|---------|
-| 🏛️ PSU-SITE President | Elected President, Society of Information Technology Enthusiasts — Palawan State University |
-| 🎓 Thesis Prototype — ATLAS-PSU | Genetic Algorithm-based teaching load assignment system — accepted thesis proposal candidate |
+| 🏛️ PSU-SITE President | Elected President of the Society of Information Technology Enthusiasts, Palawan State University |
+| 🎓 Thesis Prototype: ATLAS-PSU | Genetic Algorithm-based teaching load assignment system, accepted thesis proposal candidate |
 | ⭐ Top Starred Repo | Buzy-Reviewer ★2 · Updated-Faculty-Workload-Balancing-System ★1 |
 | 🚀 Live Products | 5+ independently shipped and maintained live web platforms |
 | 📣 366 Contributions | 366 GitHub contributions in 2026 across 3+ active repositories |
@@ -379,11 +379,11 @@ current_focus:
     - Affiliate commerce scaling strategies
     - PWA and performance optimization
 
-  open_to:
-    - Freelance web development
-    - Full-stack collaboration
-    - Open source contributions
-    - Academic system projects (PH)
+  philosophy:
+    - Builds from scratch, no templates or shortcuts
+    - Designs with both function and aesthetics in mind
+    - Owns the full product lifecycle, idea to deployment
+    - Balances academic systems work with independent product builds
 ```
 
 ---
