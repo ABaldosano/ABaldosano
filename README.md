@@ -235,11 +235,56 @@ Two commissioned product discovery web formats exploring contrasting approaches 
 | [productdiscoveryformat1](https://github.com/ABaldosano/productdiscoveryformat1) | Structured editorial approach | [View](https://abaldosano.github.io/productdiscoveryformat1/) |
 | [productdiscoveryformat2](https://github.com/ABaldosano/productdiscoveryformat2) | Alternative layout density study | [View](https://abaldosano.github.io/productdiscoveryformat2/) |
 
+<details>
+<summary><strong>🏛️ WEBSOM: PSU-SITE Membership System</strong></summary>
+
+<br/>
+
+Django-based organizational membership system for PSU-SITE. Took ownership of the codebase from its original developer, resolved infrastructure blockers, and led a cleanup and template centralization effort targeting a redeploy before the August General Assembly.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | Python, Django, PostgreSQL |
+| Scope | PSU-SITE organizational membership management |
+| Domain | Organizational Systems, Backend Architecture |
+| Status | Active redeploy in progress |
+| Role | Took over ownership, infrastructure fixes, template centralization |
+
 </details>
 
----
+<details>
+<summary><strong>⚙️ Cruxible: Custom Game Engine</strong></summary>
 
-## ⬡ Centrilign: Digital Product Studio
+<br/>
+
+The engine powering RiseFromNothing. Built on Three.js and Capacitor for Android, with a full map editor supporting undo/redo, radial symmetry, a monochrome UI, and copy/paste. Developed as a reusable technical asset independent of any single game.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | JavaScript, Three.js, Capacitor |
+| Features | Map editor, undo/redo, radial symmetry, copy/paste |
+| Domain | Game Engine, Tooling |
+| Status | Active development, powers RiseFromNothing |
+
+</details>
+
+<details>
+<summary><strong>🗄️ PostgreSQL CRUD Dashboard</strong></summary>
+
+<br/>
+
+Full CRUD dashboard connecting a PostgreSQL backend to a deployed frontend, with parameterized queries, server-side validation, accessibility improvements, and a server-side profanity filter.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | PostgreSQL, JavaScript |
+| Hosting | GitHub Pages, Railway, Supabase |
+| Features | Parameterized queries, server-side validation, profanity filter |
+| Domain | Database Systems, Full-Stack Development |
+
+</details>
+
+
 
 > Products built and maintained under the **[Centrilign](https://github.com/Centrilign)** GitHub organization.
 
@@ -338,6 +383,17 @@ Client-facing analysis and web development work delivering Google Sites builds, 
 | 📣 602 Contributions | 602 GitHub contributions since Jun 24, 2024 across 3+ active repositories |
 
 </div>
+
+---
+
+## ⬡ Research
+
+**Published on Zenodo**
+
+- **AI Literacy in Philippine Higher Education** — position paper examining how AI literacy is (and isn't) being addressed across Philippine higher education institutions.
+- **Survivorship Bias in AI-Generated Content Detection** — applies Abraham Wald's survivorship bias framework to the problem of detecting AI-generated content, questioning what detection methods miss by only studying what gets flagged.
+
+![Research](https://img.shields.io/badge/Published-Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)
 
 ---
 
