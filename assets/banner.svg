@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Arthur Baldosano Jr. Systems and Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#1a1240"/>
+      <stop offset="1" stop-color="#3b1d8f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.55">
+        <animate attributeName="stop-opacity" values="0.35;0.6;0.35" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="70" y="115" font-size="58" font-weight="700" fill="#ffffff">Arthur Baldosano Jr.</text>
+    <rect x="72" y="136" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="70" y="182" font-size="24" fill="#c4b5fd">Systems &amp; Data Analyst  |  Full-Stack Builder</text>
+    <text x="70" y="216" font-size="18" fill="#9ca3af">BSIT @ Palawan State University  |  Puerto Princesa, Philippines</text>
+  </g>
+
+  <g transform="translate(930 60)" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.9">
+    <rect x="0" y="0" width="200" height="140" rx="10" stroke-opacity="0.5"/>
+    <path d="M20 100 L60 70 L100 85 L140 40 L180 55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="70" r="5" fill="#a78bfa" stroke="none"/>
+    <circle cx="100" cy="85" r="5" fill="#a78bfa" stroke="none"/>
+    <circle cx="140" cy="40" r="5" fill="#a78bfa" stroke="none"/>
+    <circle cx="180" cy="55" r="5" fill="#a78bfa" stroke="none"/>
+    <path d="M20 120 H180" stroke-opacity="0.35"/>
+  </g>
+</svg>
