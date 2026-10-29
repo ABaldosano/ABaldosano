@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Arthur Baldosano Jr., Systems and Data Analyst" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Systems+%26+Data+Analyst+%7C+Puerto+Princesa%2C+Palawan;Building+ATLAS-PSU%2C+a+scheduling+system+for+real+chairpersons;Shipping+small+products+under+Centrilign;Learning+SQL%2C+Power+BI%2C+Excel%2C+and+Python+for+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Systems+%26+Data+Analyst+%7C+Puerto+Princesa%2C+Palawan;Building+ATLAS-PSU%2C+a+scheduling+system+for+real+chairpersons;Shipping+small+web+products;Learning+SQL%2C+Power+BI%2C+Excel%2C+and+Python+for+data)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@ Hey, I'm Arthur. Third-year BSIT student at Palawan State University, on the Dat
 
 I think of myself as a systems and data analyst first. I take a messy requirement, figure out what the system actually needs to do, then build it myself as a full-stack app. Full-stack is how I ship, not what I'm called.
 
-Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching load and class scheduling system for PSU's College of Sciences. Outside school I run **[Centrilign](https://github.com/Centrilign)**, a small studio for affiliate and market data products.
+Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching load and class scheduling system for PSU's College of Sciences. Outside school I work on small affiliate and market data products with **[Centrilign](https://github.com/Centrilign)**.
 
 **What I like building**
 - Tools that fix a real problem for a real office or class
@@ -94,7 +94,7 @@ Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching l
 
 ## ⬡ Featured Projects
 
-> Personal projects live under [**ABaldosano**](https://github.com/ABaldosano). Business products ship under [**Centrilign**](https://github.com/Centrilign).
+> Personal projects live under [**ABaldosano**](https://github.com/ABaldosano). Some products I contributed to live under [**Centrilign**](https://github.com/Centrilign).
 
 <details open>
 <summary><strong>ATLAS-PSU: Teaching Load Assignment System</strong></summary>
@@ -116,7 +116,7 @@ My thesis project. A decision-support system that helps department chairpersons 
 
 <br/>
 
-A curated Shopee product catalog under the Centrilign brand, driven by a Pinterest content strategy. I paste a product link into my admin panel, it converts through the Involve Asia API, grabs the image, and I approve it to go live. No code edits, no redeploys.
+A curated Shopee product catalog, driven by a Pinterest content strategy. I paste a product link into my admin panel, it converts through the Involve Asia API, grabs the image, and I approve it to go live. No code edits, no redeploys.
 
 | Attribute | Details |
 |-----------|---------|
@@ -152,8 +152,7 @@ A handwriting recognizer written from scratch in JavaScript. No ML libraries, ju
 
 <br/>
 
-RiseFromNothing is a 3D idle city-builder on Three.js where you climb a job ladder from Beggar upward and grow a network of businesses. Cruxible is the engine under it, with a map editor that has undo/redo, radial symmetry, copy/paste, and drag-to-delete, plus Capacitor builds for Android. Both sit in the Centrilign software and game assets stream.
-
+RiseFromNothing is a 3D idle city-builder on Three.js where you climb a job ladder from Beggar upward and grow a network of businesses. Cruxible is the engine under it, with a map editor that has undo/redo, radial symmetry, copy/paste, and drag-to-delete, plus Capacitor builds for Android.
 | Attribute | Details |
 |-----------|---------|
 | Stack | JavaScript (ES Modules), Three.js, Capacitor |
@@ -244,16 +243,14 @@ Led PSU's IT student org through events, general assemblies, officer elections, 
 
 ---
 
-**Founder** · Centrilign
+**Contributor** · Centrilign
 `2026 to Present`
 
-A small studio that ships affiliate platforms, market data tools, and game assets. I do the analysis, the design, the build, the deploy, and the traffic.
+Work on affiliate platforms, market data tools, and game assets, from analysis and design through build and deploy.
 
 - PinnedPicks: live Shopee affiliate catalog with a no-code admin panel
 - CrypStockDash: no-login market viewer
 - Cruxible and RiseFromNothing: game engine and its first game
-
-![Centrilign](https://img.shields.io/badge/Studio-Centrilign-7c3aed?style=flat-square)
 
 ---
 
@@ -306,8 +303,8 @@ A small studio that ships affiliate platforms, market data tools, and game asset
 ```yaml
 current_focus:
   building:
-    - ATLAS-PSU UI/UX overhaul (sidebar nav, drag and drop grid, printable sheets)
-    - Centrilign product pipeline
+    - ATLAS-PSU
+    - Small web products
   learning:
     - SQL, Power BI, Excel, Python for data analysis
     - Statistics
@@ -330,7 +327,6 @@ current_focus:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baldosano%20Jr.-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-v-baldosano-jr-2b5607406)
 [![GitHub](https://img.shields.io/badge/GitHub-ABaldosano-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABaldosano)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arthurr.gt.tc-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.arthurr.gt.tc/)
-[![Centrilign](https://img.shields.io/badge/Studio-Centrilign-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Centrilign)
 
 </div>
 
