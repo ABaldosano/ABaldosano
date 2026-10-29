@@ -71,9 +71,11 @@ Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching l
 **Graphics and hosting**
 
 [![Skill Icons](https://skillicons.dev/icons?i=threejs,cloudflare,vercel&theme=dark)](https://skillicons.dev)
+![Railway](https://img.shields.io/badge/Railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46e3b7?style=for-the-badge&logo=render&logoColor=black)
 
 > Frontends are vanilla HTML, CSS custom properties, and ES6+ JavaScript. No frameworks, no templates.
-> Also in the toolbox: Google OR-Tools (CP-SAT), Ollama, Capacitor, Pyodide, Render, GitHub Pages.
+> Also in the toolbox: Ollama, Capacitor, Pyodide, GitHub Pages.
 
 ---
 
@@ -82,7 +84,7 @@ Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching l
 | Domain | Level | Details |
 |--------|-------|---------|
 | Systems Analysis and Design | ◆◆◆◆◇ | Requirements, interviews, case studies, and system design for university offices |
-| Scheduling and Optimization | ◆◆◆◆◇ | CP-SAT constraint programming and Genetic Algorithms for teaching load assignment |
+| Scheduling and Optimization | ◆◆◆◆◇ | Constraint-based and evolutionary approaches to teaching load assignment |
 | Data Analytics | ◆◆◆◇◇ | Dashboards, reporting, and analytics. SQL, Power BI, and Excel are the current grind |
 | Full-Stack Development | ◆◆◆◆◇ | Flask, FastAPI, Supabase, PostgreSQL, vanilla JS frontends |
 | Affiliate and Commerce Systems | ◆◆◆◆◇ | Live catalog, SEO, Pinterest traffic, and an admin panel that publishes without code |
@@ -99,27 +101,13 @@ Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching l
 
 <br/>
 
-My thesis project. A decision-support system that helps department chairpersons at PSU's College of Sciences assign teaching loads and build class schedules, using CP-SAT constraint programming together with a Genetic Algorithm. I built it solo from April to July 2026 and passed the proposal prototype defense. It is now live with real logins and a database, and the final defense is still ahead.
+My thesis project. A decision-support system that helps department chairpersons at PSU's College of Sciences assign teaching loads and build class schedules. I built it solo and passed the proposal prototype defense. The final defense is still ahead.
 
 | Attribute | Details |
 |-----------|---------|
-| Stack | Flask, vanilla JavaScript, OR-Tools CP-SAT, Genetic Algorithm, Supabase (PostgreSQL) |
-| Hosting | Render |
-| Scope | IT, CS, Marine Biology, Medical Biology, and Environmental Science departments |
-| Status | Active development, UI/UX overhaul in progress |
-| Live | [atlas-psu.onrender.com](https://atlas-psu.onrender.com) |
-| Repository | Private for now |
-
-```mermaid
-flowchart LR
-    A[Chairperson picks department] --> B[Faculty, subjects, rooms, leave dates]
-    B --> C[CP-SAT and Genetic Algorithm]
-    C --> D[Mon to Sat schedule grid]
-    D --> E[Drag and drop edits]
-    D --> F[Printable sheets and Excel export]
-```
-
-What makes it different from a generic timetable tool: it is role-based by department, keeps dated saved runs so a chairperson can test schedules without touching the approved one, logs every change, and stores no student data and no passwords of our own.
+| Scope | PSU College of Sciences |
+| Status | Active development |
+| Repository | Private |
 
 </details>
 
