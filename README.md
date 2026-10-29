@@ -35,7 +35,7 @@ I am a third-year Bachelor of Science in Information Technology student at Palaw
 
 My primary discipline is systems and data analysis. I translate institutional requirements into system designs, then implement them as full-stack web applications. Full-stack development is the method by which I deliver the work, not the focus of my practice.
 
-My main project is **ATLAS-PSU**, my thesis: a teaching load and class scheduling system for the PSU College of Sciences. Beyond academics, I contribute to affiliate and market data products with **[Centrilign](https://github.com/Centrilign)**.
+My main project is **ATLAS-PSU**, my thesis: a teaching load and class scheduling system for the PSU College of Sciences. Beyond academics, I contribute to affiliate and market data products with **[Centrilign](https://github.com/Centrilign)**, where I work with Involve Asia on affiliate marketing and web development for PinnedPicks.
 
 **Areas of work**
 - Systems that address concrete problems in academic offices and classrooms
@@ -247,9 +247,9 @@ Led PSU's IT student organization through events, general assemblies, officer el
 **Contributor** · Centrilign
 `2026 to Present`
 
-Contribute to affiliate platforms, market data tools, and game assets, covering analysis, design, development, and deployment.
+Contribute to affiliate platforms, market data tools, and game assets, covering analysis, design, development, and deployment. Through Centrilign, I work with Involve Asia on affiliate marketing and web development for PinnedPicks.
 
-- PinnedPicks: live Shopee affiliate catalog with a no-code admin panel
+- PinnedPicks: live Shopee affiliate catalog with a no-code admin panel, built on Involve Asia affiliate links
 - CrypStockDash: market data viewer requiring no login
 - Cruxible and RiseFromNothing: a game engine and its first game
 
