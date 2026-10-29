@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=200&section=header&text=Arthur%20Baldosano%20Jr.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Data%20Analyst%20%7C%20Full-Stack%20Builder%20%7C%20PSU-SITE%20President&descAlignY=58&descSize=18" width="100%" />
+<img src="./assets/banner.svg" alt="Arthur Baldosano Jr., Systems and Data Analyst" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Analyzing+problems%2C+designing+systems%2C+shipping+product;Building+AI-powered+academic+systems;Systems+%26+Data+Analyst+%7C+Puerto+Princesa%2C+Palawan;President+%40+PSU-SITE+%7C+BSIT+Student+%40+PSU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Systems+%26+Data+Analyst+%7C+Puerto+Princesa%2C+Palawan;Building+ATLAS-PSU%2C+a+scheduling+system+for+real+chairpersons;Shipping+small+products+under+Centrilign;Learning+SQL%2C+Power+BI%2C+Excel%2C+and+Python+for+data)](https://git.io/typing-svg)
 
 <br/>
 
-![Academic](https://img.shields.io/badge/BSIT-Palawan%20State%20University-7c3aed?style=flat-square&logo=graduation-cap&logoColor=white)
+![School](https://img.shields.io/badge/BSIT-Palawan%20State%20University-7c3aed?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-3rd%20Year-6d28d9?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Puerto%20Princesa%2C%20Palawan%20🇵🇭-4f46e5?style=flat-square)
+![Track](https://img.shields.io/badge/Track-Data%20Analytics%20%26%20E--Commerce-4f46e5?style=flat-square)
+![Grad](https://img.shields.io/badge/Graduating-2028-5b21b6?style=flat-square)
+![Location](https://img.shields.io/badge/Puerto%20Princesa%2C%20PH-4f46e5?style=flat-square)
 
 <br/>
 
@@ -29,16 +31,30 @@
 
 ## ⬡ About
 
-I'm a third-year **BSIT student** at **Palawan State University** and **President of PSU-SITE**, the university's IT student organization. I'm a systems and data analyst at heart. I break down requirements, design the system that solves them, then direct that design into full-stack web platforms, AI-integrated academic tools, and affiliate commerce sites. All custom, all built from scratch, no copy-pasted templates.
+Hey, I'm Arthur. Third-year BSIT student at Palawan State University, on the Data Analytics and E-Commerce track, and President of PSU-SITE, the university's IT student org.
 
-Right now I'm developing **ATLAS-PSU** as my thesis prototype, a Genetic Algorithm-based teaching load assignment system for PSU's College of Sciences, while also running **[Centrilign](https://github.com/Centrilign)**, a small digital studio shipping affiliate platforms and market data tools.
+I think of myself as a systems and data analyst first. I take a messy requirement, figure out what the system actually needs to do, then build it myself as a full-stack app. Full-stack is how I ship, not what I'm called.
 
-**What I Build**
-- Academic systems that solve real institutional problems
-- Full-stack web platforms built from scratch, with a strong eye for design
-- AI and LLM-integrated tools and automation
-- Affiliate and commerce-focused products
-- Data pipelines and reporting systems that inform decisions, not just display them
+Most of my time right now goes to **ATLAS-PSU**, my thesis project: a teaching load and class scheduling system for PSU's College of Sciences. Outside school I run **[Centrilign](https://github.com/Centrilign)**, a small studio for affiliate and market data products.
+
+**What I like building**
+- Tools that fix a real problem for a real office or class
+- Full-stack web apps from scratch, with design that doesn't look like a template
+- Scheduling, optimization, and data reporting
+- Local and API-based AI tools
+- Small commerce products I can run and measure myself
+
+---
+
+## ⬡ Right Now
+
+| Status | What |
+|--------|------|
+| Building | ATLAS-PSU, currently in a big UI/UX overhaul with my thesis group |
+| Learning | SQL, Power BI, Excel, and Python for data work, plus statistics |
+| Running | PinnedPicks, a Shopee affiliate catalog with its own admin backend |
+| Paused | RiseFromNothing and Cruxible, until school calms down |
+| Wrapping up | My term as PSU-SITE President and the handover to the next officers |
 
 ---
 
@@ -48,279 +64,178 @@ Right now I'm developing **ATLAS-PSU** as my thesis prototype, a Genetic Algorit
 
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js,python&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Backend, data, and tooling**
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=flask,fastapi,postgres,supabase,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-> Vanilla HTML5, CSS3 Custom Properties, ES6+ JavaScript, no frameworks
+**Graphics and hosting**
 
-**Backend & Tooling**
+[![Skill Icons](https://skillicons.dev/icons?i=threejs,cloudflare,vercel&theme=dark)](https://skillicons.dev)
 
-[![Skill Icons](https://skillicons.dev/icons?i=python,fastapi,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-**Cloud & Hosting**
-
-[![Skill Icons](https://skillicons.dev/icons?i=github,vercel&theme=dark)](https://skillicons.dev)
-
-> GitHub Pages, custom domain via CNAME, PWA-ready deployments
+> Frontends are vanilla HTML, CSS custom properties, and ES6+ JavaScript. No frameworks, no templates.
+> Also in the toolbox: Google OR-Tools (CP-SAT), Ollama, Capacitor, Pyodide, Render, GitHub Pages.
 
 ---
 
-## ⬡ Analyst & Systems Expertise
+## ⬡ Analyst and Systems Skills
 
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| Data Analytics | ◆◆◆◆◇ | HubSpot certified. Dashboard, reporting systems, and requirements analysis |
-| Systems Design | ◆◆◆◆◇ | End-to-end design of university-facing automation tools |
-| Genetic Algorithms | ◆◆◆◆◇ | Teaching load optimization for the ATLAS-PSU thesis prototype |
-| LLM Integration | ◆◆◆◇◇ | Ollama (Llama3) local inference and GPT API planning for PSU_AcadRes |
-| API Development | ◆◆◆◇◇ | FastAPI backend for document processing pipelines |
-| Affiliate & Commerce Systems | ◆◆◆◆◆ | Live platforms with affiliate tracking and social traffic strategy |
+| Domain | Level | Details |
+|--------|-------|---------|
+| Systems Analysis and Design | ◆◆◆◆◇ | Requirements, interviews, case studies, and system design for university offices |
+| Scheduling and Optimization | ◆◆◆◆◇ | CP-SAT constraint programming and Genetic Algorithms for teaching load assignment |
+| Data Analytics | ◆◆◆◇◇ | Dashboards, reporting, and analytics. SQL, Power BI, and Excel are the current grind |
+| Full-Stack Development | ◆◆◆◆◇ | Flask, FastAPI, Supabase, PostgreSQL, vanilla JS frontends |
+| Affiliate and Commerce Systems | ◆◆◆◆◇ | Live catalog, SEO, Pinterest traffic, and an admin panel that publishes without code |
+| LLM Integration | ◆◆◆◇◇ | Ollama local inference, Gemini JSON output, and a Cloudflare Worker chatbot |
 
 ---
 
 ## ⬡ Featured Projects
 
-> Personal projects built and maintained under [**ABaldosano**](https://github.com/ABaldosano).
-> Business products ship under [**Centrilign**](https://github.com/Centrilign) (see studio section below).
+> Personal projects live under [**ABaldosano**](https://github.com/ABaldosano). Business products ship under [**Centrilign**](https://github.com/Centrilign).
 
-<details>
-<summary><strong>🎓 ATLAS-PSU: Automated Teaching Load Assignment System</strong></summary>
+<details open>
+<summary><strong>ATLAS-PSU: Teaching Load Assignment System</strong></summary>
 
 <br/>
 
-An AI-driven decision-support system using a **Genetic Algorithm** to automate and optimize faculty teaching load assignments for Department Chairpersons at Palawan State University's College of Sciences. Primary thesis proposal prototype.
+My thesis project. A decision-support system that helps department chairpersons at PSU's College of Sciences assign teaching loads and build class schedules, using CP-SAT constraint programming together with a Genetic Algorithm. I built it solo from April to July 2026 and passed the proposal prototype defense. It is now live with real logins and a database, and the final defense is still ahead.
 
 | Attribute | Details |
 |-----------|---------|
-| Stack | JavaScript, HTML, CSS, Genetic Algorithm |
-| Scope | PSU College of Sciences, Department Chairpersons |
-| Domain | Academic Systems, AI Optimization |
-| Status | Active prototype, thesis development |
-| Repository | [ABaldosano/ATLAS-PSU](https://github.com/ABaldosano/ATLAS-PSU) |
-| Live Demo | [abaldosano.github.io/ATLAS-PSU](https://abaldosano.github.io/ATLAS-PSU/) |
+| Stack | Flask, vanilla JavaScript, OR-Tools CP-SAT, Genetic Algorithm, Supabase (PostgreSQL) |
+| Hosting | Render |
+| Scope | IT, CS, Marine Biology, Medical Biology, and Environmental Science departments |
+| Status | Active development, UI/UX overhaul in progress |
+| Live | [atlas-psu.onrender.com](https://atlas-psu.onrender.com) |
+| Repository | Private for now |
 
-The system encodes faculty profiles, subject constraints, and time slot rules as a chromosome structure, then evolves valid load distributions across generations, producing balanced, conflict-free schedules without manual intervention from the department chair.
+```mermaid
+flowchart LR
+    A[Chairperson picks department] --> B[Faculty, subjects, rooms, leave dates]
+    B --> C[CP-SAT and Genetic Algorithm]
+    C --> D[Mon to Sat schedule grid]
+    D --> E[Drag and drop edits]
+    D --> F[Printable sheets and Excel export]
+```
+
+What makes it different from a generic timetable tool: it is role-based by department, keeps dated saved runs so a chairperson can test schedules without touching the approved one, logs every change, and stores no student data and no passwords of our own.
 
 </details>
 
 <details>
-<summary><strong>🏙️ RiseFromNothing: Browser-Based 3D Idle Tycoon</strong></summary>
+<summary><strong>PinnedPicks: Affiliate Catalog</strong></summary>
 
 <br/>
 
-A 3D idle/incremental tycoon game built on Three.js. The player navigates an isometric city on foot, working up a job ladder (Beggar to Street Sweeper to Garbage Collector and beyond) while building out a network of businesses, food carts, stores, couriers, and logistics, that generate passive income. Features entity collisions, smart pathfinding, a day-night cycle, wandering pedestrians and vehicles, and mobile joystick controls.
+A curated Shopee product catalog under the Centrilign brand, driven by a Pinterest content strategy. I paste a product link into my admin panel, it converts through the Involve Asia API, grabs the image, and I approve it to go live. No code edits, no redeploys.
 
 | Attribute | Details |
 |-----------|---------|
-| Stack | JavaScript (ES Modules), Three.js, HTML5, CSS3 |
-| Domain | Game Development, 3D Web, Idle/Incremental |
-| Status | Active development |
+| Stack | HTML, CSS, JavaScript, Supabase |
+| Channel | Shopee (Amazon and SHEIN are on hold pending approvals) |
+| Traffic | Pinterest, 2.8M+ impressions since June 2026 |
+| Extras | Full SEO setup, PWA manifest, cookie consent system |
+| Status | Live |
+| Repository | [Centrilign/pinnedpicks](https://github.com/Centrilign/pinnedpicks) |
+| Site | [www.pinnedpicks.gt.tc](https://www.pinnedpicks.gt.tc/) |
+
+I am honest about the numbers: the traffic is real, the conversions are still tiny. It is a lab for learning how affiliate funnels behave, and the data is the point.
+
+</details>
+
+<details>
+<summary><strong>NeuralGrid: Handwriting Recognizer</strong></summary>
+
+<br/>
+
+A handwriting recognizer written from scratch in JavaScript. No ML libraries, just the math. Mercury 0.1 read digits 0 to 9. Mercury 0.2 added uppercase letters A to Z with a mode toggle.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | Vanilla JavaScript, Canvas |
+| Models | Mercury 0.1 (digits), Mercury 0.2 (digits and letters) |
+| Live | [abaldosano.github.io/NeuralGridEngine](https://abaldosano.github.io/NeuralGridEngine/) |
+
+</details>
+
+<details>
+<summary><strong>RiseFromNothing and Cruxible: Game and Engine</strong></summary>
+
+<br/>
+
+RiseFromNothing is a 3D idle city-builder on Three.js where you climb a job ladder from Beggar upward and grow a network of businesses. Cruxible is the engine under it, with a map editor that has undo/redo, radial symmetry, copy/paste, and drag-to-delete, plus Capacitor builds for Android. Both sit in the Centrilign software and game assets stream.
+
+| Attribute | Details |
+|-----------|---------|
+| Stack | JavaScript (ES Modules), Three.js, Capacitor |
+| Features | NPC pathfinding, day-night cycle, real estate system, business panels, modular codebase |
+| Status | Paused while acads take over |
 | Repository | [ABaldosano/RiseFromNothing](https://github.com/ABaldosano/RiseFromNothing) |
-| Live Demo | [abaldosano.github.io/RiseFromNothing](https://abaldosano.github.io/RiseFromNothing/) |
+| Demo | [abaldosano.github.io/RiseFromNothing](https://abaldosano.github.io/RiseFromNothing/) |
 
 </details>
 
 <details>
-<summary><strong>🧠 PSU_AcadRes: Intelligent Academic Resource Platform</strong></summary>
+<summary><strong>PSU_AcadRes: AI Academic Resource Platform</strong></summary>
 
 <br/>
 
-AI-powered academic platform for PSU BSIT students. Processes uploaded documents and generates summaries, flashcards, quizzes, glossary terms, and key concept extractions. Direct evolution of Buzy-Reviewer.
+Upload a document and get summaries, flashcards, quizzes, glossary terms, and key concepts back. Built with FastAPI and local Ollama inference, with role-based access. Title proposal defended. Grew out of Buzy-Reviewer.
 
 | Attribute | Details |
 |-----------|---------|
-| Stack | JavaScript, Python, FastAPI, Ollama (Llama3) |
-| AI Backend | Local Ollama inference, GPT API integration planned |
-| Scope | PSU BSIT student body |
-| Domain | AI/ML, Academic Tools, Document Processing |
+| Stack | JavaScript, Python, FastAPI, Ollama (Llama3), RBAC |
 | Status | Live prototype |
 | Repository | [ABaldosano/PSU_AcadRes](https://github.com/ABaldosano/PSU_AcadRes) |
-| Live Demo | [abaldosano.github.io/PSU_AcadRes](https://abaldosano.github.io/PSU_AcadRes/) |
+| Demo | [abaldosano.github.io/PSU_AcadRes](https://abaldosano.github.io/PSU_AcadRes/) |
 
 </details>
 
 <details>
-<summary><strong>📋 Updated-Faculty-Workload-Balancing-System</strong></summary>
+<summary><strong>Portfolio Site: arthurr.gt.tc</strong></summary>
 
 <br/>
 
-JavaScript-based faculty workload balancer providing automated workload distribution and balancing logic for PSU department administration. Predecessor architecture to ATLAS-PSU.
+Hand-built portfolio with no frameworks. It has a Cloudflare Worker chatbot (Gemini JSON output, KV rate limiting, prompt-leak detection), an in-browser Python IDE running on Pyodide, dark and light mode, and a full SEO setup across six pages: Person, FAQPage, ItemList, and ScholarlyArticle schemas, hreflang, and Dublin Core metadata.
 
 | Attribute | Details |
 |-----------|---------|
-| Stack | JavaScript |
-| Domain | Academic Administration, Load Balancing |
-| Stars | ★ 1 |
-| Repository | [ABaldosano/Updated-Faculty-Workload-Balancing-System](https://github.com/ABaldosano/Updated-Faculty-Workload-Balancing-System) |
-
-</details>
-
-<details>
-<summary><strong>📚 Buzy-Reviewer: Interactive Study Tool</strong></summary>
-
-<br/>
-
-Foundational study tool exploring interactive review mechanics and the direct architectural predecessor to PSU_AcadRes. Its design decisions and limitations directly informed the build of the full AI platform.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | HTML, CSS, JavaScript |
-| Stars | ★ 2 |
-| Domain | EdTech, Interactive Learning |
-| Repository | [ABaldosano/Buzy-Reviewer](https://github.com/ABaldosano/Buzy-Reviewer) |
-| Live Demo | [abaldosano.github.io/Buzy-Reviewer](https://abaldosano.github.io/Buzy-Reviewer/index.html) |
-
-</details>
-
-<details>
-<summary><strong>🌐 My_Portfolio: Personal Portfolio Site</strong></summary>
-
-<br/>
-
-Full personal portfolio with zero frameworks and zero templates. Custom cursor, dark/light mode, scroll reveal animations, PWA manifest, full SEO (Open Graph, JSON-LD, sitemap, geo meta), and responsive layout. Live at a custom domain.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | HTML5, CSS3, Vanilla JavaScript |
-| Hosting | GitHub Pages + Custom CNAME |
-| Domain | [www.arthurr.gt.tc](https://www.arthurr.gt.tc/) |
-| Features | PWA, dark mode, custom cursor, IntersectionObserver scroll reveal |
-| SEO | JSON-LD structured data, Open Graph, Twitter Card, geo meta |
+| Stack | HTML5, CSS3, Vanilla JS, Cloudflare Workers, Pyodide |
+| Site | [www.arthurr.gt.tc](https://www.arthurr.gt.tc/) |
 | Repository | [ABaldosano/My_Portfolio](https://github.com/ABaldosano/My_Portfolio) |
 
 </details>
 
 <details>
-<summary><strong>🛒 ProductSortGame: Falling-Item Sorting Game</strong></summary>
+<summary><strong>CrypStockDash: Market Data Viewer</strong></summary>
 
 <br/>
 
-A falling-item sorting game where produce drops from the top of the screen and the player drags each item into the correct basket (Fruit, Vegetable, or Dairy) before it hits the floor. Originally built as a C# WinForms Data Structures & Algorithms finals project, then ported to vanilla JS with drag-and-drop, mobile touch support, scoring, hearts, and progressive speed scaling.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | HTML, CSS, Vanilla JavaScript |
-| Origin | C# WinForms DSA finals project, ported to web |
-| Domain | Game Development, Casual/Arcade |
-| Status | Live |
-| Repository | [ABaldosano/ProductSortGame](https://github.com/ABaldosano/ProductSortGame) |
-| Live Demo | [abaldosano.github.io/ProductSortGame](https://abaldosano.github.io/ProductSortGame/) |
-
-</details>
-
-<details>
-<summary><strong>🎮 Creative Frontend Builds: Cyberpunk2077 & Death Stranding</strong></summary>
-
-<br/>
-
-Game-inspired frontend experiments exploring immersive UI design, atmospheric visual systems, and dynamic interaction patterns. Both built in pure HTML/CSS/JS, no frameworks.
-
-| Project | Stack | Inspiration | Live |
-|---------|-------|-------------|------|
-| [Cyberpunk2077](https://github.com/ABaldosano/Cyberpunk2077) | HTML, CSS, JS | Night City neon aesthetic | [View](https://abaldosano.github.io/Cyberpunk2077/) |
-| [deathstranding](https://github.com/ABaldosano/deathstranding) | HTML, CSS, JS | Atmospheric, post-apocalyptic UI | [View](https://abaldosano.github.io/deathstranding/) |
-
-</details>
-
-<details>
-<summary><strong>🛍️ Commissioned Builds: Product Discovery Layouts</strong></summary>
-
-<br/>
-
-Two commissioned product discovery web formats exploring contrasting approaches to editorial layout, visual hierarchy, and browsing flow.
-
-| Project | Format | Live |
-|---------|--------|------|
-| [productdiscoveryformat1](https://github.com/ABaldosano/productdiscoveryformat1) | Structured editorial approach | [View](https://abaldosano.github.io/productdiscoveryformat1/) |
-| [productdiscoveryformat2](https://github.com/ABaldosano/productdiscoveryformat2) | Alternative layout density study | [View](https://abaldosano.github.io/productdiscoveryformat2/) |
-
-<details>
-<summary><strong>🏛️ WEBSOM: PSU-SITE Membership System</strong></summary>
-
-<br/>
-
-Django-based organizational membership system for PSU-SITE. Took ownership of the codebase from its original developer, resolved infrastructure blockers, and led a cleanup and template centralization effort targeting a redeploy before the August General Assembly.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | Python, Django, PostgreSQL |
-| Scope | PSU-SITE organizational membership management |
-| Domain | Organizational Systems, Backend Architecture |
-| Status | Active redeploy in progress |
-| Role | Took over ownership, infrastructure fixes, template centralization |
-
-</details>
-
-<details>
-<summary><strong>⚙️ Cruxible: Custom Game Engine</strong></summary>
-
-<br/>
-
-The engine powering RiseFromNothing. Built on Three.js and Capacitor for Android, with a full map editor supporting undo/redo, radial symmetry, a monochrome UI, and copy/paste. Developed as a reusable technical asset independent of any single game.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | JavaScript, Three.js, Capacitor |
-| Features | Map editor, undo/redo, radial symmetry, copy/paste |
-| Domain | Game Engine, Tooling |
-| Status | Active development, powers RiseFromNothing |
-
-</details>
-
-<details>
-<summary><strong>🗄️ PostgreSQL CRUD Dashboard</strong></summary>
-
-<br/>
-
-Full CRUD dashboard connecting a PostgreSQL backend to a deployed frontend, with parameterized queries, server-side validation, accessibility improvements, and a server-side profanity filter.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | PostgreSQL, JavaScript |
-| Hosting | GitHub Pages, Railway, Supabase |
-| Features | Parameterized queries, server-side validation, profanity filter |
-| Domain | Database Systems, Full-Stack Development |
-
-</details>
-
-
-
-> Products built and maintained under the **[Centrilign](https://github.com/Centrilign)** GitHub organization.
-
-<details>
-<summary><strong>📌 PinnedPicks: Affiliate E-Commerce Platform</strong></summary>
-
-<br/>
-
-Independently owned affiliate commerce platform curating product picks across Shopee, Amazon, and SHEIN. Built from scratch on GitHub Pages. Traffic driven through a Pinterest-based content strategy.
-
-| Attribute | Details |
-|-----------|---------|
-| Stack | HTML, CSS, JavaScript |
-| Model | Affiliate commerce, social traffic |
-| Channels | Shopee, Amazon, SHEIN |
-| Strategy | Pinterest-driven content pipeline |
-| Status | Live business |
-| Repository | [Centrilign/pinnedpicks](https://github.com/Centrilign/pinnedpicks) |
-| Platform | [www.pinnedpicks.gt.tc](https://www.pinnedpicks.gt.tc/) |
-
-</details>
-
-<details>
-<summary><strong>📈 CrypStockDash: Market Data Viewer</strong></summary>
-
-<br/>
-
-Lightweight stock and crypto market viewer. Search any ticker and get live market data without creating an account.
+Search any stock or crypto ticker and get live data. No account, no login.
 
 | Attribute | Details |
 |-----------|---------|
 | Stack | HTML, CSS, JavaScript, Finance API |
-| Model | No-login, real-time market data |
-| Domain | Fintech, Real-time data |
 | Repository | [Centrilign/crypstockdash](https://github.com/Centrilign/crypstockdash) |
-| Platform | [www.crypstockdash.page.gd](https://www.crypstockdash.page.gd/) |
+| Site | [www.crypstockdash.page.gd](https://www.crypstockdash.page.gd/) |
+
+</details>
+
+<details>
+<summary><strong>Smaller builds and earlier work</strong></summary>
+
+<br/>
+
+| Project | What it is |
+|---------|------------|
+| [PostgreSQL CRUD Dashboard](https://github.com/ABaldosano) | Full CRUD app with parameterized queries, server-side validation, and a profanity filter. Railway and Supabase |
+| [ProductSortGame](https://github.com/ABaldosano/ProductSortGame) | Falling-item sorting game. Started as a C# WinForms DSA finals project, then ported to the web. [Play](https://abaldosano.github.io/ProductSortGame/) |
+| [Updated-Faculty-Workload-Balancing-System](https://github.com/ABaldosano/Updated-Faculty-Workload-Balancing-System) | The early workload balancer that ATLAS-PSU grew out of |
+| [Buzy-Reviewer](https://github.com/ABaldosano/Buzy-Reviewer) | Interactive study tool. Direct ancestor of PSU_AcadRes. [Demo](https://abaldosano.github.io/Buzy-Reviewer/index.html) |
+| [Cyberpunk2077](https://github.com/ABaldosano/Cyberpunk2077) | Night City neon UI experiment. [View](https://abaldosano.github.io/Cyberpunk2077/) |
+| [deathstranding](https://github.com/ABaldosano/deathstranding) | Atmospheric UI experiment. [View](https://abaldosano.github.io/deathstranding/) |
+| [productdiscoveryformat1](https://github.com/ABaldosano/productdiscoveryformat1) and [2](https://github.com/ABaldosano/productdiscoveryformat2) | Two commissioned product discovery layouts. [Format 1](https://abaldosano.github.io/productdiscoveryformat1/), [Format 2](https://abaldosano.github.io/productdiscoveryformat2/) |
 
 </details>
 
@@ -329,44 +244,28 @@ Lightweight stock and crypto market viewer. Search any ticker and get live marke
 ## ⬡ Experience
 
 **President** · Society of Information Technology Enthusiasts (PSU-SITE)
-`Aug 2024 – Present`
+`Aug 2024 to 2026`
 
-Leading PSU's IT student organization, organizing tech events, representing students in university-level settings, and building technical culture within the College of Sciences.
+Led PSU's IT student org through events, general assemblies, officer elections, constitution amendments, and a full audit cycle. Now in the handover stretch with the incoming officers.
 
-- Organized and facilitated IT-focused seminars, workshops, and inter-collegiate events
-- Represented BSIT students in institutional and organizational settings
-- Coordinated member activities across academic and technical tracks
+- Organized seminars, workshops, and inter-collegiate events
+- Represented BSIT students in school and org settings
+- Handled the org's finances and audit paperwork, and got the A.Y. 2025-26 audit opinion fixed
 
 ![Leadership](https://img.shields.io/badge/Student%20Leadership-PSU--SITE-7c3aed?style=flat-square)
-![PSU](https://img.shields.io/badge/Institution-Palawan%20State%20University-6d28d9?style=flat-square)
 
 ---
 
-**Founder & Systems/Data Analyst** · Centrilign
-`2026 – Present`
+**Founder** · Centrilign
+`2026 to Present`
 
-Independent digital product studio. Ships affiliate commerce platforms, market data tools, and web products under the Centrilign brand. I analyze the requirements, design the system, then direct the full-stack build myself.
+A small studio that ships affiliate platforms, market data tools, and game assets. I do the analysis, the design, the build, the deploy, and the traffic.
 
-- Designed and built PinnedPicks, a live affiliate platform with a Pinterest-based traffic strategy
-- Developed CrypStockDash, a no-login real-time financial data viewer
-- Operates full product lifecycle: analysis, design, build, deploy, traffic
+- PinnedPicks: live Shopee affiliate catalog with a no-code admin panel
+- CrypStockDash: no-login market viewer
+- Cruxible and RiseFromNothing: game engine and its first game
 
 ![Centrilign](https://img.shields.io/badge/Studio-Centrilign-7c3aed?style=flat-square)
-![Analyst](https://img.shields.io/badge/Role-Systems%2FData%20Analyst-4f46e5?style=flat-square)
-
----
-
-**Freelance Systems & Data Analyst** · Independent
-`2026 – Present`
-
-Client-facing analysis and web development work delivering Google Sites builds, product discovery layouts, and custom HTML/CSS/JS work for paying clients.
-
-- Delivered a complete class and school website via Google Sites for a paying client
-- Built two product discovery web formats for a freelance commission
-- Manages client communication, scoping, and delivery end-to-end
-
-![Freelance](https://img.shields.io/badge/Track-Freelance%20Analyst%20%26%20Development-6d28d9?style=flat-square)
-![Upwork](https://img.shields.io/badge/Platform-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)
 
 ---
 
@@ -374,13 +273,14 @@ Client-facing analysis and web development work delivering Google Sites builds, 
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🏛️ PSU-SITE President | Elected President of the Society of Information Technology Enthusiasts, Palawan State University |
-| 🎓 Thesis Prototype: ATLAS-PSU | Genetic Algorithm-based teaching load assignment system, accepted thesis proposal candidate |
-| ⭐ Top Starred Repo | Buzy-Reviewer ★2, Updated-Faculty-Workload-Balancing-System ★1 |
-| 🚀 Live Products | 5+ independently shipped and maintained live web platforms |
-| 📣 602 Contributions | 602 GitHub contributions since Jun 24, 2024 across 3+ active repositories |
+| What | Details |
+|------|---------|
+| PSU-SITE President | Elected to lead PSU's IT student org |
+| ATLAS-PSU | Built solo, passed the proposal prototype defense, now live with a real database |
+| Live products | PinnedPicks, CrypStockDash, ATLAS-PSU, PSU_AcadRes, and my portfolio are all running |
+| Research | Position paper on AI literacy published on Zenodo |
+| Contributions | 748 GitHub contributions in the last year |
+| Certifications | 16 on my portfolio across AI, data analytics, and marketing |
 
 </div>
 
@@ -390,8 +290,11 @@ Client-facing analysis and web development work delivering Google Sites builds, 
 
 **Published on Zenodo**
 
-- **AI Literacy in Philippine Higher Education** — position paper examining how AI literacy is (and isn't) being addressed across Philippine higher education institutions.
-- **Survivorship Bias in AI-Generated Content Detection** — applies Abraham Wald's survivorship bias framework to the problem of detecting AI-generated content, questioning what detection methods miss by only studying what gets flagged.
+- **AI Literacy in Philippine Higher Education**: a position paper on how AI literacy is, and is not, being handled across Philippine higher education. It got a serious critique on LinkedIn from an Ateneo BUILD director, which I answered.
+
+**In the drafts folder**
+
+- A second position paper applying Abraham Wald's survivorship bias idea to AI-generated content detection. On hold for now.
 
 ![Research](https://img.shields.io/badge/Published-Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)
 
@@ -399,55 +302,14 @@ Client-facing analysis and web development work delivering Google Sites builds, 
 
 ## ⬡ Certifications
 
-**HubSpot Academy**
+![HubSpot](https://img.shields.io/badge/HubSpot-Content%20Marketing-ff7a59?style=flat-square&logo=hubspot&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-AI%20Courses-049fd9?style=flat-square&logo=cisco&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20%2F%20LinkedIn-Generative%20AI%20Essentials-0078d4?style=flat-square&logo=microsoft&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Analytics-Essentials-7c3aed?style=flat-square)
+![PMI](https://img.shields.io/badge/PMI-Kickoff-1f4e79?style=flat-square)
+![TESDA](https://img.shields.io/badge/e--TESDA-Visual%20Graphic%20Design%20NC%20III%20(in%20progress)-6d28d9?style=flat-square)
 
-![Digital Marketing](https://img.shields.io/badge/HubSpot-Digital%20Marketing%20Certified-ff7a59?style=flat-square&logo=hubspot&logoColor=white)
-
-> Completed all 8 modules: SEO, content marketing, social media, email marketing, paid advertising, reporting, and analytics.
-
----
-
-## ⬡ GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABaldosano&show_icons=true&theme=github_dark&hide_border=true&title_color=7c3aed&icon_color=6d28d9&text_color=e6e6e6&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=ABaldosano&theme=github-dark-blue&hide_border=true&ring=7c3aed&fire=6d28d9&currStreakLabel=7c3aed&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABaldosano&layout=compact&theme=github_dark&hide_border=true&title_color=7c3aed&text_color=e6e6e6&bg_color=0d1117&langs_count=6)
-
-</div>
-
----
-
-## ⬡ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ABaldosano&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ABaldosano)
-
-</div>
-
----
-
-## ⬡ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABaldosano&bg_color=0d1117&color=7c3aed&line=6d28d9&point=a78bfa&area=true&hide_border=true)](https://github.com/ABaldosano)
-
-</div>
-
----
-
-## ⬡ Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/ABaldosano/ABaldosano/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+> Next on the list: one more data analytics cert, and PMI's CAPM right after graduation.
 
 ---
 
@@ -455,29 +317,19 @@ Client-facing analysis and web development work delivering Google Sites builds, 
 
 ```yaml
 current_focus:
-  learning:
-    - SQL, Power BI, and Python for data analysis (Titan Skills stack)
-    - Genetic Algorithm optimization techniques
-    - LLM API integration (GPT, Ollama)
-    - FastAPI backend architecture
-
   building:
-    - ATLAS-PSU: GA-based thesis prototype (active development)
-    - RiseFromNothing: 3D idle tycoon game (Three.js)
-    - PSU_AcadRes: AI academic platform expansion
+    - ATLAS-PSU UI/UX overhaul (sidebar nav, drag and drop grid, printable sheets)
     - Centrilign product pipeline
-
-  exploring:
-    - AI-powered academic system design
-    - Affiliate commerce scaling strategies
-    - PWA and performance optimization
-
-  philosophy:
-    - Analyzes before building, designs the system before writing code
-    - Builds from scratch, no templates or shortcuts
-    - Designs with both function and aesthetics in mind
-    - Owns the full product lifecycle, idea to deployment
-    - Balances academic systems work with independent product builds
+  learning:
+    - SQL, Power BI, Excel, Python for data analysis
+    - Statistics
+  paused:
+    - RiseFromNothing and Cruxible
+  how_i_work:
+    - Analyze first, design the system, then write code
+    - Build from scratch, skip the template
+    - Keep handoffs in files so the work survives any session
+    - Own the whole loop, from idea to deployed
 ```
 
 ---
@@ -490,7 +342,6 @@ current_focus:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baldosano%20Jr.-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-v-baldosano-jr-2b5607406)
 [![GitHub](https://img.shields.io/badge/GitHub-ABaldosano-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABaldosano)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arthurr.gt.tc-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.arthurr.gt.tc/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01746d5ba8ae90ffb9?mp_source=share)
 [![Centrilign](https://img.shields.io/badge/Studio-Centrilign-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Centrilign)
 
 </div>
@@ -499,8 +350,6 @@ current_focus:
 
 <div align="center">
 
-*Building from Puerto Princesa. Shipping products that work.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=100&section=footer" width="100%" />
+*Building from Puerto Princesa. Shipping things that work.*
 
 </div>
